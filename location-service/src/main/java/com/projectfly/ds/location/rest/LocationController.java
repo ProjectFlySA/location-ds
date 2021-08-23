@@ -1,5 +1,6 @@
 package com.projectfly.ds.location.rest;
 
+
 import com.projectfly.ds.location.entity.Location;
 import com.projectfly.ds.location.model.LocationRequest;
 import com.projectfly.ds.location.service.LocationService;
